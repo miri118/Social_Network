@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\SocialNetwork\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\Users\Admin\Desktop\SocialNetwork\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\Users\Admin\Desktop\SocialNetwork\Mock\bin\Debug\net8.0\Mock.dll
+C:\Users\Admin\Desktop\SocialNetwork\Mock\bin\Debug\net8.0\Mock.pdb
+C:\Users\Admin\Desktop\SocialNetwork\Mock\bin\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\SocialNetwork\Mock\bin\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\Mock.csproj.CopyComplete
+C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\Mock.dll
+C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\Mock.pdb
+C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\ref\Mock.dll
