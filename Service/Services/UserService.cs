@@ -1,4 +1,5 @@
-﻿using Repository.Entities;
+﻿using AutoMapper;
+using Repository.Entities;
 using Repository.Interfaces;
 using Service.Interfaces;
 using System;
