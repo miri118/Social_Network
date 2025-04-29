@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\Admin\Desktop\SocialNetwork\Common\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Admin\Desktop\SocialNetwork\Common\.editorconfig" />
+  </ItemGroup>
+
 </Project>

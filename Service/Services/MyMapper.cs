@@ -10,10 +10,11 @@ namespace Service.Services
 {
     public class MyMapper:Profile
     {
+        string path = Path.Combine(Environment.CurrentDirectory, "Images/");
         public MyMapper() 
         {
-            CreateMap<User, UserDto>().ForMember("ArrImageProfile", x => x.MapFrom(y => File.ReadAllBytes(y.ImageProfileUrl)));
-            //CreateMap<UserDto, User>().ForMember("ImageProfileUrl", x => x.MapFrom(y => File.ReadAllBytes(y.ArrImageProfile)));
+            CreateMap<User, UserDto>().ForMember("ArrImageProfile", x => x.MapFrom(y => File.ReadAllBytes(path+ y.ImageProfileUrl)));
+           // CreateMap<UserDto, User>().ForMember("ImageProfileUrl", x => x.MapFrom(y => y.fileImageProfile.FileName));
         }
     }
 }
