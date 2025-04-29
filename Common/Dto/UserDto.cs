@@ -18,7 +18,7 @@ namespace Repository.Entities
         public string Name { get; set; }
         public string Password { get; set; }
         public byte[] ArrImageProfile { get; set; }
-        public IFormfile? fileImageProfile { get; set; }
+        //public IFormfile? fileImageProfile { get; set; }
         public Role Role { get; set; }
         public int CountMessages { get; set; }
     }
