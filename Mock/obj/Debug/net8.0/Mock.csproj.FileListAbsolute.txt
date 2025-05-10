@@ -16,3 +16,21 @@ C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\Mock.pdb
 C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
 C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\ref\Mock.dll
 C:\Users\Admin\Desktop\SocialNetwork\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+C:\פרויקט גמר\Social_Network\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\פרויקט גמר\Social_Network\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\פרויקט גמר\Social_Network\Mock\bin\Debug\net8.0\Mock.dll
+C:\פרויקט גמר\Social_Network\Mock\bin\Debug\net8.0\Mock.pdb
+C:\פרויקט גמר\Social_Network\Mock\bin\Debug\net8.0\Repository.dll
+C:\פרויקט גמר\Social_Network\Mock\bin\Debug\net8.0\Repository.pdb
+C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CopyComplete
+C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.dll
+C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
+C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll
