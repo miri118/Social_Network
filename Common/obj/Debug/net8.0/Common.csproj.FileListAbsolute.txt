@@ -10,3 +10,15 @@ C:\Users\Admin\Desktop\SocialNetwork\Common\obj\Debug\net8.0\refint\Common.dll
 C:\Users\Admin\Desktop\SocialNetwork\Common\obj\Debug\net8.0\Common.pdb
 C:\Users\Admin\Desktop\SocialNetwork\Common\obj\Debug\net8.0\ref\Common.dll
 C:\Users\Admin\Desktop\SocialNetwork\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\פרויקט גמר\Social_Network\Common\bin\Debug\net8.0\Common.deps.json
+C:\פרויקט גמר\Social_Network\Common\bin\Debug\net8.0\Common.dll
+C:\פרויקט גמר\Social_Network\Common\bin\Debug\net8.0\Common.pdb
+C:\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.dll
+C:\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\refint\Common.dll
+C:\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.pdb
+C:\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\ref\Common.dll
