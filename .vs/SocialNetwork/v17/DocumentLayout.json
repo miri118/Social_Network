@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\social_network\\socialnetwork\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\social_network\\socialnetwork\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC131046-E956-46FB-8367-B74F44B51CD0}|Service\\Service.csproj|c:\\users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\social_network\\service\\services\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC131046-E956-46FB-8367-B74F44B51CD0}|Service\\Service.csproj|solutionrelative:service\\services\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\SocialNetwork\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\SocialNetwork\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SocialNetwork\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T23:01:06.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyMapper.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\Service\\Services\\MyMapper.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\MyMapper.cs",
+              "ToolTip": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\Service\\Services\\MyMapper.cs",
+              "RelativeToolTip": "Service\\Services\\MyMapper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T23:00:53.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\SocialNetwork\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\SocialNetwork\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "SocialNetwork\\Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T23:00:54.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
