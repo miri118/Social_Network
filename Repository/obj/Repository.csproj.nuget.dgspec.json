@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\SocialNetwork\\Repository\\Repository.csproj": {}
+    "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\SocialNetwork\\Repository\\Repository.csproj": {
+    "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\SocialNetwork\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\SocialNetwork\\Repository\\Repository.csproj",
+        "projectPath": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\SocialNetwork\\Repository\\obj\\",
+        "outputPath": "C:\\פרויקט גמר\\Social_Network\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

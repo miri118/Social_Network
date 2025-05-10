@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "40EDoMIN0Zy+ZW17JO1jymvKpnjAZDS6Vi/iFoj4raHeKBdrxRorLvvoxcWuRxr35NKcBA/AvKz/i4DbXWAoKQ==",
+  "dgSpecHash": "9M7YMcQyVdGq4ALvNSLBlUPP348jJ/qu0RCe9eGQkKRECiqwTotUZeie2oazwtRZcB/Zrsr5seuT4qp2fIX8og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\SocialNetwork\\Repository\\Repository.csproj",
+  "projectFilePath": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
