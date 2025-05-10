@@ -3900,11 +3900,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\SocialNetwork\\SocialNetwork\\SocialNetwork.csproj",
+      "projectUniqueName": "C:\\פרויקט גמר\\Social_Network\\SocialNetwork\\SocialNetwork.csproj",
       "projectName": "SocialNetwork",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\SocialNetwork\\SocialNetwork\\SocialNetwork.csproj",
+      "projectPath": "C:\\פרויקט גמר\\Social_Network\\SocialNetwork\\SocialNetwork.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\SocialNetwork\\SocialNetwork\\obj\\",
+      "outputPath": "C:\\פרויקט גמר\\Social_Network\\SocialNetwork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3921,8 +3921,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\SocialNetwork\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\SocialNetwork\\Common\\Common.csproj"
+            "C:\\פרויקט גמר\\Social_Network\\Common\\Common.csproj": {
+              "projectPath": "C:\\פרויקט גמר\\Social_Network\\Common\\Common.csproj"
             }
           }
         }
