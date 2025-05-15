@@ -7,11 +7,15 @@ using System.Threading.Tasks;
 
 namespace Repository.Entities
 {
+   public enum Imuge
+    {
+        Like,Dislike,Happy,Lought,Sad,Angry,Shock 
+    }
     public class Feedback
     {
         [Key]
         public int Id { get; set; }
-        public bool Type { get; set; }//לשנות אולי לאימוגים בתור סוג
+        public Imuge Type { get; set; }//לשנות אולי לאימוגים בתור סוג
         public User User { get; set; }
     }
 }
