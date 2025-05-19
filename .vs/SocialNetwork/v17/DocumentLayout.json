@@ -1,18 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\",
+  "WorkspaceRootPath": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\social_network\\socialnetwork\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7815215E-47EF-4128-B8E3-F9721424BD77}|Common\\Common.csproj|e:\\a \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\social_network\\common\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7815215E-47EF-4128-B8E3-F9721424BD77}|Common\\Common.csproj|solutionrelative:common\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|e:\\a \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\social_network\\socialnetwork\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC131046-E956-46FB-8367-B74F44B51CD0}|Service\\Service.csproj|e:\\a \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\social_network\\service\\services\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC131046-E956-46FB-8367-B74F44B51CD0}|Service\\Service.csproj|solutionrelative:service\\services\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5FEBC0-6F23-4684-944F-E63E70979EA9}|Repository\\Repository.csproj|e:\\a \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\social_network\\repository\\repositories\\extensionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5FEBC0-6F23-4684-944F-E63E70979EA9}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\extensionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|e:\\a \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\social_network\\socialnetwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520C8F6E-1BFE-49D6-B18D-9E94FB05C2AF}|Mock\\Mock.csproj|e:\\a \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\social_network\\mock\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520C8F6E-1BFE-49D6-B18D-9E94FB05C2AF}|Mock\\Mock.csproj|solutionrelative:mock\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC131046-E956-46FB-8367-B74F44B51CD0}|Service\\Service.csproj|e:\\a \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\social_network\\service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC131046-E956-46FB-8367-B74F44B51CD0}|Service\\Service.csproj|solutionrelative:service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|e:\\a \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\social_network\\socialnetwork\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\social_network\\socialnetwork\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC131046-E956-46FB-8367-B74F44B51CD0}|Service\\Service.csproj|e:\\a \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\social_network\\service\\services\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC131046-E956-46FB-8367-B74F44B51CD0}|Service\\Service.csproj|solutionrelative:service\\services\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|e:\\a \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\social_network\\socialnetwork\\socialnetwork.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\socialnetwork.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|e:\\a \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\social_network\\socialnetwork\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC131046-E956-46FB-8367-B74F44B51CD0}|Service\\Service.csproj|c:\\users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\social_network\\service\\services\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC131046-E956-46FB-8367-B74F44B51CD0}|Service\\Service.csproj|solutionrelative:service\\services\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|e:\\a \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\social_network\\socialnetwork\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B724DC86-EF45-4525-967D-593DDBD66271}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +58,158 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\SocialNetwork\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "SocialNetwork\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\SocialNetwork\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "SocialNetwork\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\Common\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\UserDto.cs",
+              "ToolTip": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\Common\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Common\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T23:01:06.555Z",
+              "WhenOpened": "2025-05-18T12:41:33.591Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SocialNetwork.csproj",
+              "DocumentMoniker": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\SocialNetwork\\SocialNetwork.csproj",
+              "RelativeDocumentMoniker": "SocialNetwork\\SocialNetwork.csproj",
+              "ToolTip": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\SocialNetwork\\SocialNetwork.csproj",
+              "RelativeToolTip": "SocialNetwork\\SocialNetwork.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T12:30:32.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\Mock\\Database.cs",
+              "RelativeDocumentMoniker": "Mock\\Database.cs",
+              "ToolTip": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\Mock\\Database.cs",
+              "RelativeToolTip": "Mock\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:39:38.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\UserService.cs",
+              "ToolTip": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\Service\\Services\\UserService.cs",
+              "RelativeToolTip": "Service\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:38:12.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExtensionService.cs",
+              "DocumentMoniker": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\Service\\Services\\ExtensionService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ExtensionService.cs",
+              "ToolTip": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\Service\\Services\\ExtensionService.cs",
+              "RelativeToolTip": "Service\\Services\\ExtensionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:36:07.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExtensionRepository.cs",
+              "DocumentMoniker": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\Repository\\Repositories\\ExtensionRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\ExtensionRepository.cs",
+              "ToolTip": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\Repository\\Repositories\\ExtensionRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\ExtensionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:33:32.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\SocialNetwork\\Program.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Program.cs",
+              "ToolTip": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\SocialNetwork\\Program.cs",
+              "RelativeToolTip": "SocialNetwork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:32:29.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\SocialNetwork\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Controllers\\MessageController.cs",
+              "ToolTip": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\SocialNetwork\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "SocialNetwork\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:29:37.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\SocialNetwork\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\SocialNetwork\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SocialNetwork\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIAxwCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:29:13.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\SocialNetwork\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\SocialNetwork\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SocialNetwork\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T23:01:06.555Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MyMapper.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\Service\\Services\\MyMapper.cs",
+              "DocumentMoniker": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\Service\\Services\\MyMapper.cs",
               "RelativeDocumentMoniker": "Service\\Services\\MyMapper.cs",
-              "ToolTip": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\Service\\Services\\MyMapper.cs",
+              "ToolTip": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\Service\\Services\\MyMapper.cs",
               "RelativeToolTip": "Service\\Services\\MyMapper.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAANAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBEAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T23:00:53.752Z"
+              "WhenOpened": "2025-05-10T23:00:53.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "FeedbackController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\SocialNetwork\\Controllers\\FeedbackController.cs",
+              "DocumentMoniker": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\SocialNetwork\\Controllers\\FeedbackController.cs",
               "RelativeDocumentMoniker": "SocialNetwork\\Controllers\\FeedbackController.cs",
-              "ToolTip": "C:\\Users\\user1\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05D1\u05E8\u05DB\u05D9\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Social_Network\\SocialNetwork\\Controllers\\FeedbackController.cs",
+              "ToolTip": "E:\\A \u05D1\u05E8\u05DB\u05D9 \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4\\server\\runing_swagger\\Social_Network\\SocialNetwork\\Controllers\\FeedbackController.cs",
               "RelativeToolTip": "SocialNetwork\\Controllers\\FeedbackController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBkAAAAJAAAA",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T23:00:54.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T23:00:54.051Z"
             }
           ]
         }

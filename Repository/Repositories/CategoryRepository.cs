@@ -11,42 +11,71 @@ namespace Repository.Repositories
     public class CategoryRepository : IRepository<Category>
     {
         private readonly IContext context;
-        public CategoryRepository(IContext context)
+
+        public CategoryRepository()
         {
-            this.context = context;
+            
         }
-        public Category Add(Category item)
+        public Task<Category> Add(Category item)
         {
-            this.context.Categories.Add(item);
-            this.context.Save();
-            return item;
+            throw new NotImplementedException();
         }
 
-        public void Delete(int id)
+        public Task Delete(int id)
         {
-            this.context.Categories.Remove(GetById(id));
-            this.context.Save();
+            throw new NotImplementedException();
         }
 
-        public List<Category> GetAll()
+        public Task<List<Category>> GetAll()
         {
-            return context.Categories.ToList();
+            throw new NotImplementedException();
         }
 
-        public Category GetById(int id)
+        public Task<Category> GetById(int id)
         {
-            return context.Categories.FirstOrDefault(x => x.Id == id);
+            throw new NotImplementedException();
         }
 
-        public void Update(int id, Category item)
+        public Task Update(int id, Category item)
         {
-            var existCategory = GetById(id);
-            if (existCategory != null)
-            {
-                existCategory.NameCategory = item.NameCategory;
-                existCategory.Topics = item.Topics;
-                context.Save();
-            }
+            throw new NotImplementedException();
         }
+        //public CategoryRepository(IContext context)
+        //{
+        //    this.context = context;
+        //}
+        //public Category Add(Category item)
+        //{
+        //    this.context.Categories.Add(item);
+        //    this.context.Save();
+        //    return item;
+        //}
+
+        //public void Delete(int id)
+        //{
+        //    this.context.Categories.Remove(GetById(id));
+        //    this.context.Save();
+        //}
+
+        //public List<Category> GetAll()
+        //{
+        //    return context.Categories.ToList();
+        //}
+
+        //public Category GetById(int id)
+        //{
+        //    return context.Categories.FirstOrDefault(x => x.Id == id);
+        //}
+
+        //public void Update(int id, Category item)
+        //{
+        //    var existCategory = GetById(id);
+        //    if (existCategory != null)
+        //    {
+        //        existCategory.NameCategory = item.NameCategory;
+        //        existCategory.Topics = item.Topics;
+        //        context.Save();
+        //    }
+        //}
     }
 }

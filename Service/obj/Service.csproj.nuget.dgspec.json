@@ -1,136 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\פרויקט גמר\\Social_Network\\Service\\Service.csproj": {}
+    "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\פרויקט גמר\\Social_Network\\Common\\Common.csproj": {
+    "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\פרויקט גמר\\Social_Network\\Common\\Common.csproj",
+        "projectUniqueName": "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\פרויקט גמר\\Social_Network\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\פרויקט גמר\\Social_Network\\Common\\obj\\",
+        "projectPath": "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
-        "projectName": "Repository",
-        "projectPath": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\פרויקט גמר\\Social_Network\\Repository\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\פרויקט גמר\\Social_Network\\Service\\Service.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\פרויקט גמר\\Social_Network\\Service\\Service.csproj",
-        "projectName": "Service",
-        "projectPath": "C:\\פרויקט גמר\\Social_Network\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\פרויקט גמר\\Social_Network\\Service\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -144,11 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\פרויקט גמר\\Social_Network\\Common\\Common.csproj": {
-                "projectPath": "C:\\פרויקט גמר\\Social_Network\\Common\\Common.csproj"
-              },
-              "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj"
+              "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Repository\\Repository.csproj": {
+                "projectPath": "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Repository\\Repository.csproj"
               }
             }
           }
@@ -162,12 +43,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -179,12 +54,114 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Common\\Common.csproj": {
+                "projectPath": "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Common\\Common.csproj"
+              },
+              "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Repository\\Repository.csproj": {
+                "projectPath": "E:\\A ברכי פרוייקט סוף שנה\\server\\runing_swagger\\Social_Network\\Repository\\Repository.csproj"
+              }
             }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
