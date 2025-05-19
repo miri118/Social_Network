@@ -1,6 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Common.Dto;
+using Microsoft.AspNetCore.Mvc;
 using Repository.Entities;
-using SocialNetwork.Models;
+using Service.Interfaces;
 
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -11,48 +12,50 @@ namespace SocialNetwork.Controllers
     [ApiController]
     public class CategoryController : ControllerBase
     {
-        SocialNetworkContext db = new SocialNetworkContext();
+        private readonly IService<CategoryDto> service;
 
+        public CategoryController(IService<CategoryDto> service)
+        {
+            this.service = service;
+        }
         // GET: api/<CategoryController>
         [HttpGet]
-        public List<Category> Get()
+        public List<CategoryDto> Get()
         {
-            return db.Categories.ToList();
+            return service.GetAll();
         }
 
         // GET api/<CategoryController>/5
         [HttpGet("{id}")]
-        public Category Get(int id)
+        public CategoryDto Get(int id)
         {
-            return db.Categories.FirstOrDefault(x => x.Id == id);
+            return service.GetById(id);
         }
-        [HttpGet("getBy/{name}")]
-        public Category GetCategoryByName(string name)
-        {
-            return db.Categories.FirstOrDefault(x => x.NameCategory == name);
-        }
+        //[HttpGet("getBy/{name}")]
+        //public CategoryDto GetCategoryByName(string name)
+        //{
+        //    return service.get
+        //}
 
         // POST api/<CategoryController>
         [HttpPost]
-        public void Post([FromBody] Category category)
+        public CategoryDto Post([FromBody] CategoryDto category)
         {
-            db.Categories.Add(category);
-            db.SaveChanges();
+            return service.Add(category);
         }
 
         // PUT api/<CategoryController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public void Put(int id, [FromBody] CategoryDto category)
         {
-
+            service.Update(id, category);
         }
 
         // DELETE api/<CategoryController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-            db.Categories.Remove(Get(id));
-            db.SaveChanges();
+            service.Delete(id);
         }
     }
 }

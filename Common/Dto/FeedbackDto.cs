@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repository.Entities
+namespace Common.Dto
 {
     public class FeedbackDto
     {

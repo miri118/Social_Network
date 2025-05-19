@@ -1,5 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using SocialNetwork.Models;
+﻿using Common.Dto;
+using Microsoft.AspNetCore.Mvc;
+using Service.Interfaces;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -9,43 +10,44 @@ namespace SocialNetwork.Controllers
     [ApiController]
     public class FeedbackController : ControllerBase
     {
-        SocialNetworkContext db = new SocialNetworkContext();
-
+        private readonly IService<FeedbackDto> service;
+        public FeedbackController(IService<FeedbackDto> service)
+        {
+            this.service = service;
+        }
         // GET: api/<FeedbackController>
         [HttpGet]
-        public List<Feedback> Get()
+        public List<FeedbackDto> Get()
         {
-            return db.Feedbacks.ToList();
+            return service.GetAll();
         }
 
         // GET api/<FeedbackController>/5
         [HttpGet("{id}")]
-        public Feedback Get(int id)
+        public FeedbackDto Get(int id)
         {
-            return db.Feedbacks.FirstOrDefault(x => x.Id == id);
+            return service.GetById(id);
         }
 
         // POST api/<FeedbackController>
         [HttpPost]
-        public void Post(Feedback f)
+        public FeedbackDto Post([FromBody] FeedbackDto feedback)
         {
-            db.Feedbacks.Add(f);
-            db.SaveChanges();
+            return service.Add(feedback);
         }
 
         // PUT api/<FeedbackController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public void Put(int id, [FromBody] FeedbackDto feedback)
         {
-
+            service.Update(id, feedback);
         }
 
         // DELETE api/<FeedbackController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-            db.Remove(Get(id));
-            db.SaveChanges();
+            service.Delete(id);
         }
     }
 }

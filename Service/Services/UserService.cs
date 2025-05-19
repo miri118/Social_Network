@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Common.Dto;
 using Repository.Entities;
 using Repository.Interfaces;
 using Service.Interfaces;

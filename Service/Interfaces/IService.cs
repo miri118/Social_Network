@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Service.Interfaces
 {
-    internal interface IService<T>
+    public interface IService<T>
     {
         T GetById(int id);
         List<T> GetAll();

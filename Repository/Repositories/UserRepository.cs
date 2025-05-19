@@ -1,4 +1,5 @@
-﻿using Repository.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using Repository.Entities;
 using Repository.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -15,39 +16,39 @@ namespace Repository.Repositories
         {
             this.context = context;
         }
-        public User Add(User item)
+        public async Task<User> Add(User item)
         {
-            context.Users.Add(item);
-            context.Save();
+            await context.Users.AddAsync(item);
+            await context.Save();
             return item;
         }
 
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            context.Users.Remove(GetById(id));
-            context.Save();
+            context.Users.Remove(await GetById(id));
+            await context.Save();
         }
 
-        public List<User> GetAll()
+        public async Task<List<User>> GetAll()
         {
-            return context.Users.ToList();
+            return await context.Users.ToListAsync();
         }
 
-        public User GetById(int id)
+        public async Task<User> GetById(int id)
         {
-            return context.Users.FirstOrDefault(x => x.Id == id);
+            return await context.Users.FirstOrDefaultAsync(x => x.Id == id);
         }
 
-        public void Update(int id, User item)
+        public async Task Update(int id, User item)
         {
-            var existUser = GetById(id);   
+            var existUser = await GetById(id);   
             if(existUser != null)
             {
                 existUser.Name = item.Name;
                 existUser.Password = item.Password;
                 existUser.Role = item.Role;
                 //existUser.CountMessages = item.CountMessages; // האם נכון!?
-                context.Save();
+                await context.Save();
             }
         }
     }
