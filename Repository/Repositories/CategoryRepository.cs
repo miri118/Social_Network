@@ -1,4 +1,5 @@
-﻿using Repository.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using Repository.Entities;
 using Repository.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -11,41 +12,42 @@ namespace Repository.Repositories
     public class CategoryRepository : IRepository<Category>
     {
         private readonly IContext context;
+
         public CategoryRepository(IContext context)
         {
             this.context = context;
         }
-        public Category Add(Category item)
+        public async Task<Category> Add(Category item)
         {
-            this.context.Categories.Add(item);
-            this.context.Save();
+            await context.Categories.AddAsync(item);
+            await context.Save();
             return item;
         }
 
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            this.context.Categories.Remove(GetById(id));
-            this.context.Save();
+             context.Categories.Remove(await GetById(id));
+             await context.Save();
         }
 
-        public List<Category> GetAll()
+        public async Task<List<Category>> GetAll()
         {
-            return context.Categories.ToList();
+            return await context.Categories.ToListAsync();
         }
 
-        public Category GetById(int id)
+        public async Task<Category> GetById(int id)
         {
-            return context.Categories.FirstOrDefault(x => x.Id == id);
+            return await context.Categories.FirstOrDefaultAsync(x => x.Id == id);
         }
 
-        public void Update(int id, Category item)
+        public async Task Update(int id, Category item)
         {
-            var existCategory = GetById(id);
+            var existCategory=await GetById(id);
             if (existCategory != null)
             {
-                existCategory.NameCategory = item.NameCategory;
-                existCategory.Topics = item.Topics;
-                context.Save();
+                existCategory.NameCategory=item.NameCategory;
+                existCategory.Topics=item.Topics;
+                await context.Save();
             }
         }
     }

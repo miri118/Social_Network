@@ -1,4 +1,5 @@
-﻿using Repository.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using Repository.Entities;
 using Repository.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -15,37 +16,37 @@ namespace Repository.Repositories
         {
             this.context = context;
         }
-        public Feedback Add(Feedback item)
+        public async Task<Feedback> Add(Feedback item)
         {
-            context.Feedbacks.Add(item);
-            context.Save();
+            await context.Feedbacks.AddAsync(item);
+            await context.Save();
             return item;
         }
 
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            context.Feedbacks.Remove(GetById(id));
-            context.Save();
+            context.Feedbacks.Remove( await GetById(id));
+            await context.Save();
         }
 
-        public List<Feedback> GetAll()
+        public async Task<List<Feedback>> GetAll()
         {
             return context.Feedbacks.ToList();
         }
 
-        public Feedback GetById(int id)
+        public async Task<Feedback> GetById(int id)
         {
-            return context.Feedbacks.FirstOrDefault(x => x.Id == id);
+            return await context.Feedbacks.FirstOrDefaultAsync(x => x.Id == id);
         }
 
-        public void Update(int id, Feedback item)
+        public async Task Update(int id, Feedback item)
         {
-            var existFeedback = GetById(id);
+            var existFeedback = await GetById(id);
             if (existFeedback != null)
             {
                 existFeedback.User = item.User;
                 existFeedback.Type = item.Type;
-                context.Save();
+                await context.Save();
             }
         }
     }

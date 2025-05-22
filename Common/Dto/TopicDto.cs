@@ -6,11 +6,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repository.Entities
+namespace Common.Dto
 {
     public class TopicDto
     {
-        [Key]
         public int Id { get; set; }
         public int CategoryId { get; set; }
         [ForeignKey("CategoryId")]

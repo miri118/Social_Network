@@ -1,4 +1,5 @@
-﻿using Repository.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using Repository.Entities;
 using Repository.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -15,32 +16,32 @@ namespace Repository.Repositories
         {
             this.context = context;
         }
-        public Message Add(Message item)
+        public async Task<Message> Add(Message item)
         {
-            context.Messages.Add(item);
-            context.Save();
+            await context.Messages.AddAsync(item);
+            await context.Save();
             return item;
         }
 
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            context.Messages.Remove(GetById(id));
-            context.Save();
+            context.Messages.Remove(await GetById(id));
+            await context.Save();
         }
 
-        public List<Message> GetAll()
+        public async Task<List<Message>> GetAll()
         {
             return context.Messages.ToList();
         }
 
-        public Message GetById(int id)
+        public async Task<Message> GetById(int id)
         {
-            return context.Messages.FirstOrDefault(x => x.Id == id);
+            return await context.Messages.FirstOrDefaultAsync(x => x.Id == id);
         }
 
-        public void Update(int id, Message item)
+        public async Task Update(int id, Message item)
         {
-            var existMessage = GetById(id);
+            var existMessage = await GetById(id);
             if (existMessage != null)
             {
                 existMessage.Content = item.Content;

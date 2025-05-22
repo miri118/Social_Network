@@ -34,3 +34,111 @@ C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\refint\Mock.dll
 C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
 C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
 C:\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Mock.dll
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Mock.pdb
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Repository.dll
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Repository.pdb
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CopyComplete
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.dll
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\פרויקט גמר\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll
+C:\Users\m-sys\Desktop\Social_Network\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\Users\m-sys\Desktop\Social_Network\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\Users\m-sys\Desktop\Social_Network\Mock\bin\Debug\net8.0\Mock.dll
+C:\Users\m-sys\Desktop\Social_Network\Mock\bin\Debug\net8.0\Mock.pdb
+C:\Users\m-sys\Desktop\Social_Network\Mock\bin\Debug\net8.0\Repository.dll
+C:\Users\m-sys\Desktop\Social_Network\Mock\bin\Debug\net8.0\Repository.pdb
+C:\Users\m-sys\Desktop\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\Users\m-sys\Desktop\Social_Network\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-sys\Desktop\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\Users\m-sys\Desktop\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\Users\m-sys\Desktop\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\m-sys\Desktop\Social_Network\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+C:\Users\m-sys\Desktop\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.Up2Date
+C:\Users\m-sys\Desktop\Social_Network\Mock\obj\Debug\net8.0\Mock.dll
+C:\Users\m-sys\Desktop\Social_Network\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\Users\m-sys\Desktop\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
+C:\Users\m-sys\Desktop\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\Users\m-sys\Desktop\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Mock.deps.json
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Mock.dll
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Mock.pdb
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Repository.dll
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Repository.pdb
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.Up2Date
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.dll
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\refint\Mock.dll
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+E:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Mock.deps.json
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Mock.dll
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Mock.pdb
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Repository.dll
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\bin\Debug\net8.0\Repository.pdb
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CopyComplete
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.dll
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\refint\Mock.dll
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+D:\A ברכי פרוייקט סוף שנה\server\runing_swagger\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\obj\Debug\net8.0\Mock.dll
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\bin\Debug\net8.0\Mock.dll
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\bin\Debug\net8.0\Mock.pdb
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\bin\Debug\net8.0\Repository.dll
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\bin\Debug\net8.0\Repository.pdb
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CopyComplete
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\פרויקט גמר\after brachi did the async function and tasks\‏‏תיקיה חדשה\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\bin\Debug\net8.0\Mock.dll
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\bin\Debug\net8.0\Mock.pdb
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\bin\Debug\net8.0\Repository.dll
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\bin\Debug\net8.0\Repository.pdb
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CopyComplete
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.dll
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll

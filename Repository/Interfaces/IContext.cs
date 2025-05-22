@@ -15,6 +15,6 @@ namespace Repository.Interfaces
         public DbSet<Category> Categories { get; set; }
         public DbSet<Feedback> Feedbacks { get; set; }
         public DbSet<Message> Messages { get; set; }
-        public void Save();
+        public Task Save();
     }
 }

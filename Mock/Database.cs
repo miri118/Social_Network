@@ -17,14 +17,14 @@ namespace Mock
         public DbSet<Feedback> Feedbacks { get; set; }
         public DbSet<Message> Messages { get; set; }
 
-        public void Save()
+        public async Task Save()
         {
-            SaveChanges();
+            await SaveChangesAsync();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=DESKTOP-FKDF8KP\\SQLSERVR;database=SocialNetwork;trusted_connection=true;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("server=sql;database=SocialNetwork;trusted_connection=true;TrustServerCertificate=True");
         }
 
     }
