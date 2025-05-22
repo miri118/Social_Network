@@ -11,15 +11,18 @@ namespace Mock
 {
     public class Database : DbContext, IContext
     {
+        string serverMiri;
+        //DESKTOP - FKDF8KP\SQLSERVR
+        string serverSeminary = "sql";
         public DbSet<User> Users { get; set; }
-        public DbSet<Topic> Topics { get; set; }
-        public DbSet<Category> Categories { get; set; }
+        //public DbSet<Topic> Topics { get; set; }
+        //public DbSet<Category> Categories { get; set; }
         public DbSet<Feedback> Feedbacks { get; set; }
-        public DbSet<Message> Messages { get; set; }
+        //public DbSet<Message> Messages { get; set; }
 
-        public void Save()
+        public async Task Save()
         {
-            SaveChanges();
+            await SaveChangesAsync();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

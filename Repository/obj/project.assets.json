@@ -3184,11 +3184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
+      "projectUniqueName": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
+      "projectPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\פרויקט גמר\\Social_Network\\Repository\\obj\\",
+      "outputPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

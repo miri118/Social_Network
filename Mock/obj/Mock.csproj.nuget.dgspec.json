@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\פרויקט גמר\\Social_Network\\Mock\\Mock.csproj": {}
+    "D:\\לימודים\\פרויקט גמר\\Social_Network\\Mock\\Mock.csproj": {}
   },
   "projects": {
-    "C:\\פרויקט גמר\\Social_Network\\Mock\\Mock.csproj": {
+    "D:\\לימודים\\פרויקט גמר\\Social_Network\\Mock\\Mock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\פרויקט גמר\\Social_Network\\Mock\\Mock.csproj",
+        "projectUniqueName": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Mock\\Mock.csproj",
         "projectName": "Mock",
-        "projectPath": "C:\\פרויקט גמר\\Social_Network\\Mock\\Mock.csproj",
+        "projectPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Mock\\Mock.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\פרויקט גמר\\Social_Network\\Mock\\obj\\",
+        "outputPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Mock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj"
+              "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj": {
+    "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
+        "projectPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\פרויקט גמר\\Social_Network\\Repository\\obj\\",
+        "outputPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

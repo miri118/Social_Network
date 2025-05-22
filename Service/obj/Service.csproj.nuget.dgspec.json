@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\פרויקט גמר\\Social_Network\\Service\\Service.csproj": {}
+    "D:\\לימודים\\פרויקט גמר\\Social_Network\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\פרויקט גמר\\Social_Network\\Common\\Common.csproj": {
+    "D:\\לימודים\\פרויקט גמר\\Social_Network\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\פרויקט גמר\\Social_Network\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\פרויקט גמר\\Social_Network\\Common\\Common.csproj",
+        "projectPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\פרויקט גמר\\Social_Network\\Common\\obj\\",
+        "outputPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -39,6 +43,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,14 +69,14 @@
         }
       }
     },
-    "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj": {
+    "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
+        "projectPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\פרויקט גמר\\Social_Network\\Repository\\obj\\",
+        "outputPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -120,14 +130,14 @@
         }
       }
     },
-    "C:\\פרויקט גמר\\Social_Network\\Service\\Service.csproj": {
+    "D:\\לימודים\\פרויקט גמר\\Social_Network\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\פרויקט גמר\\Social_Network\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\פרויקט גמר\\Social_Network\\Service\\Service.csproj",
+        "projectPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\פרויקט גמר\\Social_Network\\Service\\obj\\",
+        "outputPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,11 +154,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\פרויקט גמר\\Social_Network\\Common\\Common.csproj": {
-                "projectPath": "C:\\פרויקט גמר\\Social_Network\\Common\\Common.csproj"
+              "D:\\לימודים\\פרויקט גמר\\Social_Network\\Common\\Common.csproj": {
+                "projectPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Common\\Common.csproj"
               },
-              "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj"
+              "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Repository\\Repository.csproj"
               }
             }
           }

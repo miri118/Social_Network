@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Common.Dto;
 using Repository.Entities;
 using System;
 using System.Collections.Generic;
@@ -14,7 +15,9 @@ namespace Service.Services
         public MyMapper() 
         {
             CreateMap<User, UserDto>().ForMember("ArrImageProfile", x => x.MapFrom(y => File.ReadAllBytes(path+ y.ImageProfileUrl)));
-           // CreateMap<UserDto, User>().ForMember("ImageProfileUrl", x => x.MapFrom(y => y.fileImageProfile.FileName));
+            CreateMap<UserDto, User>().ForMember("ImageProfileUrl", x => x.MapFrom(y => y.fileImageProfile.FileName));
+
+            CreateMap<User, UserDto>().ReverseMap();
         }
     }
 }

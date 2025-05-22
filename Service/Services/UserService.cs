@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Common.Dto;
 using Repository.Entities;
 using Repository.Interfaces;
 using Service.Interfaces;
@@ -21,7 +22,7 @@ namespace Service.Services
         }
         public UserDto Add(UserDto user)
         {
-            return mapper.Map<User, UserDto>(repository.Add(mapper.Map<UserDto, User>(user)));
+            return mapper.Map<UserDto>(repository.Add(mapper.Map<User>(user)));
         }
 
         public void Delete(int id)
@@ -31,17 +32,17 @@ namespace Service.Services
 
         public List<UserDto> GetAll()
         {
-            return mapper.Map<List<User>, List<UserDto>>(repository.GetAll());
+            return mapper.Map<List<UserDto>>(repository.GetAll());
         }
 
         public UserDto GetById(int id)
         {
-            return mapper.Map<User, UserDto>(repository.GetById(id));
+            return mapper.Map<UserDto>(repository.GetById(id));
         }
 
         public void Update(int id, UserDto item)
         {
-            repository.Update(id, mapper.Map<UserDto, User>(item));
+            repository.Update(id, mapper.Map<User>(item));
         }
     }
 }

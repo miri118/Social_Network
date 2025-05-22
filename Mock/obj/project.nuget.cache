@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Tg1c2cJHYFCgDCZnDMZcyGpP6nBYDQNUmx2G/tlZ02df7MW5pFmxRH8kCn0uDU5kig7ncuJ2eIcySGZ6hby+A==",
+  "dgSpecHash": "8wQRFGk4YjKj6JNTbSPX30G1cxrOvp3GgFhEsv88p3I0kVBv0Sxf+2YX+tl3CFZV350R8VotbzJwhLLU8gV6Iw==",
   "success": true,
-  "projectFilePath": "C:\\פרויקט גמר\\Social_Network\\Mock\\Mock.csproj",
+  "projectFilePath": "D:\\לימודים\\פרויקט גמר\\Social_Network\\Mock\\Mock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
