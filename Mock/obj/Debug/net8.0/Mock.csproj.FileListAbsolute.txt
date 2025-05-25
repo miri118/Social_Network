@@ -142,3 +142,39 @@ C:\פרויקט גמר\after brachi did the async function and tasks\Social_Netw
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\bin\Debug\net8.0\Mock.deps.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\bin\Debug\net8.0\Mock.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\bin\Debug\net8.0\Mock.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\bin\Debug\net8.0\Repository.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\bin\Debug\net8.0\Repository.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.Up2Date
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\refint\Mock.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\bin\Debug\net8.0\Mock.deps.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\bin\Debug\net8.0\Mock.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\bin\Debug\net8.0\Mock.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\bin\Debug\net8.0\Repository.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\bin\Debug\net8.0\Repository.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.Up2Date
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\refint\Mock.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll

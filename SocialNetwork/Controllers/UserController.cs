@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-
 using Common.Dto;
 using Service.Interfaces;
 using Microsoft.Extensions.Configuration;
 using System.IdentityModel.Tokens.Jwt;
 using Microsoft.IdentityModel.Tokens;
-using System.Security.Claims; // ?
+using System.Security.Claims;
+using System.Threading.Tasks; // ?
 // צריך להוריד את הספריות של טוקן ואבטחה
 
 
@@ -26,40 +26,40 @@ namespace SocialNetwork.Controllers
         }
         // GET: api/<UserController>
         [HttpGet]
-        public List<UserDto> Get()
+        public async Task<List<UserDto>> Get()
         {
-            return service.GetAll();
+            return await service.GetAll();
         }
 
         // GET api/<UserController>/5
         [HttpGet("{id}")]
-        public UserDto Get(int id)
+        public async Task<UserDto> Get(int id)
         {
-            return service.GetById(id);
+            return await service.GetById(id);
         }
 
         // POST api/<UserController>
         [HttpPost]
-        public UserDto Post([FromForm] UserDto user)
+        public async Task<UserDto> Post([FromForm] UserDto user)
         {
             UploadImage(user.fileImageProfile);
-            return service.Add(user);
+            return await service.Add(user);
         }
 
-        [HttpPost("{id}")]
-        public string Login([FromForm] UserLogin user)
-        {
-            var testUser = Authenticate(user);
-            var token = Generate(testUser);
-            return token;
-        }
-        private UserDto Authenticate(UserLogin user)
-        {
-            UserDto retUser = service.GetAll().FirstOrDefault(x => x.Password == user.Password && x.Name == user.UserName);
-            if (retUser != null) 
-                return retUser;
-            return null;
-        }
+        //[HttpPost("{id}")]
+        //public string Login([FromForm] UserLogin user)
+        //{
+        //    var testUser = Authenticate(user);
+        //    var token = Generate(testUser);
+        //    return token;
+        //}
+        //private async Task<UserDto> Authenticate(UserLogin user)
+        //{
+        //    UserDto retUser = await service.GetAll().FirstOrDefaultAsync(x => x.Password == user.Password && x.Name == user.UserName);
+        //    if (retUser != null) 
+        //        return retUser;
+        //    return null;
+        //}
         private string Generate(UserDto user)
         {
             //    var securitykey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(config["Jwt:Key"]));

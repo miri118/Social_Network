@@ -102,3 +102,29 @@ C:\פרויקט גמר\after brachi did the async function and tasks\Social_Netw
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\obj\Debug\net8.0\refint\Repository.dll
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\obj\Debug\net8.0\Repository.pdb
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\obj\Debug\net8.0\ref\Repository.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\bin\Debug\net8.0\Repository.deps.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\bin\Debug\net8.0\Repository.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\bin\Debug\net8.0\Repository.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\obj\Debug\net8.0\Repository.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\obj\Debug\net8.0\refint\Repository.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\obj\Debug\net8.0\Repository.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Repository\obj\Debug\net8.0\ref\Repository.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\bin\Debug\net8.0\Repository.deps.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\bin\Debug\net8.0\Repository.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\bin\Debug\net8.0\Repository.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\obj\Debug\net8.0\Repository.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\obj\Debug\net8.0\refint\Repository.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\obj\Debug\net8.0\Repository.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\obj\Debug\net8.0\ref\Repository.dll

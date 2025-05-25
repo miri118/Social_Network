@@ -11,6 +11,6 @@ namespace Common.Dto
     {
         public int Id { get; set; }
         public string NameCategory { get; set; }
-        public virtual ICollection<TopicDto> Topics { get; set; }//virtual- בגלל שלא חייבים לעשות לכל קטגוריה דיון
+        //public virtual ICollection<TopicDto> Topics { get; set; }//virtual- בגלל שלא חייבים לעשות לכל קטגוריה דיון
     }
 }

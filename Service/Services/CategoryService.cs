@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Common.Dto;
 using Repository.Entities;
+using Repository.Interfaces;
 using Service.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -12,37 +13,37 @@ namespace Service.Services
 {
     public class CategoryService : IService<CategoryDto>
     {
-        private readonly IService<Category> repository;
+        private readonly IRepository<Category> repository;
         private readonly IMapper mapper;
-        public CategoryService(IService<Category> repository, IMapper mapper)
+        public CategoryService(IRepository<Category> repository, IMapper mapper)
         {
             this.repository = repository;
             this.mapper = mapper;
         }
 
-        public CategoryDto Add(CategoryDto category)
+        public async Task<CategoryDto> Add(CategoryDto category)
         {
-            return mapper.Map<Category, CategoryDto>(repository.Add(mapper.Map <CategoryDto, Category>(category)));
+            return mapper.Map<Category, CategoryDto>(await repository.Add(mapper.Map<CategoryDto, Category>(category)));
         }
 
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            throw new NotImplementedException();
+            await repository.Delete(id);
         }
 
-        public List<CategoryDto> GetAll()
+        public async Task<List<CategoryDto>> GetAll()
         {
-            return mapper.Map<List<Category>,List<CategoryDto>>(repository.GetAll());
+            return mapper.Map<List<Category>, List<CategoryDto>>(await repository.GetAll());
         }
 
-        public CategoryDto GetById(int id)
+        public async Task<CategoryDto> GetById(int id)
         {
-            return mapper.Map<Category,CategoryDto>(repository.GetById(id));
+            return mapper.Map<Category, CategoryDto>(await repository.GetById(id));
         }
 
-        public void Update(int id, CategoryDto item)
+        public async Task Update(int id, CategoryDto item)
         {
-            repository.Update(id,mapper.Map<CategoryDto, Category>(item));
+            await repository.Update(id, mapper.Map<CategoryDto, Category>(item));
         }
     }
 }

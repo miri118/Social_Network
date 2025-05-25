@@ -1,6 +1,7 @@
 ﻿using Common.Dto;
 using Microsoft.AspNetCore.Mvc;
 using Service.Interfaces;
+using System.Threading.Tasks;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -17,23 +18,23 @@ namespace SocialNetwork.Controllers
         }
         // GET: api/<FeedbackController>
         [HttpGet]
-        public List<FeedbackDto> Get()
+        public async Task<List<FeedbackDto>> Get()
         {
-            return service.GetAll();
+            return await service.GetAll();
         }
 
         // GET api/<FeedbackController>/5
         [HttpGet("{id}")]
-        public FeedbackDto Get(int id)
+        public async Task<FeedbackDto> Get(int id)
         {
-            return service.GetById(id);
+            return await service.GetById(id);
         }
 
         // POST api/<FeedbackController>
         [HttpPost]
-        public FeedbackDto Post([FromBody] FeedbackDto feedback)
+        public async Task<FeedbackDto> Post([FromBody] FeedbackDto feedback)
         {
-            return service.Add(feedback);
+            return await service.Add(feedback);
         }
 
         // PUT api/<FeedbackController>/5

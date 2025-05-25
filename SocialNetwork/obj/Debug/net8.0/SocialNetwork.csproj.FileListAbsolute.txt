@@ -672,3 +672,179 @@ C:\פרויקט גמר\after brachi did the async function and tasks\Social_Netw
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.pdb
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.genruntimeconfig.cache
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\ref\SocialNetwork.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\appsettings.Development.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\appsettings.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\SocialNetwork.staticwebassets.endpoints.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\SocialNetwork.exe
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\SocialNetwork.deps.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\SocialNetwork.runtimeconfig.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\SocialNetwork.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\SocialNetwork.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\AutoMapper.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Azure.Core.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Azure.Identity.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Humanizer.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\System.CodeDom.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Memory.Data.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Common.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Mock.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Repository.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Service.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Common.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Mock.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Service.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\bin\Debug\net8.0\Repository.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.csproj.AssemblyReference.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.AssemblyInfoInputs.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.AssemblyInfo.cs
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.csproj.CoreCompileInputs.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.MvcApplicationPartsAssemblyInfo.cs
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.MvcApplicationPartsAssemblyInfo.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.sourcelink.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\scopedcss\bundle\SocialNetwork.styles.css
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\staticwebassets.build.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\staticwebassets.development.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNe.364C5A64.Up2Date
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\refint\SocialNetwork.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.genruntimeconfig.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\SocialNetwork\obj\Debug\net8.0\ref\SocialNetwork.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\appsettings.Development.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\appsettings.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\SocialNetwork.staticwebassets.endpoints.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\SocialNetwork.exe
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\SocialNetwork.deps.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\SocialNetwork.runtimeconfig.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\SocialNetwork.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\SocialNetwork.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\AutoMapper.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Azure.Core.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Azure.Identity.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Humanizer.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.OpenApi.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Mono.TextTemplating.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\System.CodeDom.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Drawing.Common.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Memory.Data.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Runtime.Caching.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Security.Permissions.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\System.Windows.Extensions.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Common.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Mock.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Repository.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Service.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Common.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Mock.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Service.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\bin\Debug\net8.0\Repository.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.csproj.AssemblyReference.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.AssemblyInfoInputs.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.AssemblyInfo.cs
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.csproj.CoreCompileInputs.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.MvcApplicationPartsAssemblyInfo.cs
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.sourcelink.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\scopedcss\bundle\SocialNetwork.styles.css
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\staticwebassets.build.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\staticwebassets.build.json.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\staticwebassets.development.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNe.364C5A64.Up2Date
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\refint\SocialNetwork.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\SocialNetwork.genruntimeconfig.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\SocialNetwork\obj\Debug\net8.0\ref\SocialNetwork.dll

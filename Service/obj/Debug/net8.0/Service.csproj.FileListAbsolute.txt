@@ -142,3 +142,39 @@ C:\פרויקט גמר\after brachi did the async function and tasks\Social_Netw
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\refint\Service.dll
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\Service.pdb
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\ref\Service.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\bin\Debug\net8.0\Service.deps.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\bin\Debug\net8.0\Service.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\bin\Debug\net8.0\Service.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\bin\Debug\net8.0\Common.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\bin\Debug\net8.0\Repository.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\bin\Debug\net8.0\Common.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\bin\Debug\net8.0\Repository.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\Service.sourcelink.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\Service.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\refint\Service.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\Service.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Service\obj\Debug\net8.0\ref\Service.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\bin\Debug\net8.0\Service.deps.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\bin\Debug\net8.0\Service.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\bin\Debug\net8.0\Service.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\bin\Debug\net8.0\Common.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\bin\Debug\net8.0\Repository.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\bin\Debug\net8.0\Common.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\bin\Debug\net8.0\Repository.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\Service.sourcelink.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\Service.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\refint\Service.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\Service.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\ref\Service.dll

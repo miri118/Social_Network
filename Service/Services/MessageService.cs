@@ -20,29 +20,29 @@ namespace Service.Services
             this.repository = repository;
             this.mapper = mapper;
         }
-        public MessageDto Add(MessageDto user)
+        public async Task<MessageDto> Add(MessageDto user)
         {
-            return mapper.Map<MessageDto>(repository.Add(mapper.Map<Message>(user)));
+            return mapper.Map<MessageDto>(await repository.Add(mapper.Map<Message>(user)));
         }
 
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            repository.Delete(id);
+            await repository.Delete(id);
         }
 
-        public List<MessageDto> GetAll()
+        public async Task<List<MessageDto>> GetAll()
         {
-            return mapper.Map<List<MessageDto>>(repository.GetAll());
+            return mapper.Map<List<MessageDto>>(await repository.GetAll());
         }
 
-        public MessageDto GetById(int id)
+        public async Task<MessageDto> GetById(int id)
         {
-            return mapper.Map<MessageDto>(repository.GetById(id));
+            return mapper.Map<MessageDto>(await repository.GetById(id));
         }
 
-        public void Update(int id, MessageDto item)
+        public async Task Update(int id, MessageDto item)
         {
-            repository.Update(id, mapper.Map<Message>(item));
+            await repository.Update(id, mapper.Map<Message>(item));
         }
     }
 }

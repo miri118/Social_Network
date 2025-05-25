@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Repository.Entities;
 using Service.Interfaces;
+using System.Threading.Tasks;
 
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -20,16 +21,16 @@ namespace SocialNetwork.Controllers
         }
         // GET: api/<CategoryController>
         [HttpGet]
-        public List<CategoryDto> Get()
+        public async Task<List<CategoryDto>> Get()
         {
-            return service.GetAll();
+            return await service.GetAll();
         }
 
         // GET api/<CategoryController>/5
         [HttpGet("{id}")]
-        public CategoryDto Get(int id)
+        public async Task<CategoryDto> Get(int id)
         {
-            return service.GetById(id);
+            return await service.GetById(id);
         }
         //[HttpGet("getBy/{name}")]
         //public CategoryDto GetCategoryByName(string name)
@@ -39,9 +40,9 @@ namespace SocialNetwork.Controllers
 
         // POST api/<CategoryController>
         [HttpPost]
-        public CategoryDto Post([FromBody] CategoryDto category)
+        public async Task<CategoryDto> Post([FromBody] CategoryDto category)
         {
-            return service.Add(category);
+            return await service.Add(category);
         }
 
         // PUT api/<CategoryController>/5

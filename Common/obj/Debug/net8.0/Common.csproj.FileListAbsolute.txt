@@ -106,3 +106,35 @@ C:\פרויקט גמר\after brachi did the async function and tasks\Social_Netw
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\refint\Common.dll
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\Common.pdb
 C:\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\ref\Common.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\bin\Debug\net8.0\Common.deps.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\bin\Debug\net8.0\Common.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\bin\Debug\net8.0\Common.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\bin\Debug\net8.0\Repository.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\bin\Debug\net8.0\Repository.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\Common.sourcelink.json
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\Common.csproj.Up2Date
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\Common.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\refint\Common.dll
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\Common.pdb
+E:\לימודים\פרויקט גמר\פרויקט גמר\after brachi did the async function and tasks\Social_Network\Common\obj\Debug\net8.0\ref\Common.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\bin\Debug\net8.0\Common.deps.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\bin\Debug\net8.0\Common.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\bin\Debug\net8.0\Common.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\bin\Debug\net8.0\Repository.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\bin\Debug\net8.0\Repository.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.sourcelink.json
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.csproj.Up2Date
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\refint\Common.dll
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\Common.pdb
+L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Common\obj\Debug\net8.0\ref\Common.dll

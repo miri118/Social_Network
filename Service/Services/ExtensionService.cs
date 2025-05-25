@@ -18,10 +18,10 @@ namespace Service.Services
         public static IServiceCollection AddServices(this IServiceCollection services) {
             services.AddRepository();
             services.AddScoped<IService<UserDto>, UserService>();
-            services.AddScoped<IService<CategoryDto>, CategoryService>();
             services.AddScoped<IService<FeedbackDto>, FeedbackService>();
             services.AddScoped<IService<MessageDto>, MessageService>();
             services.AddScoped<IService<TopicDto>, TopicService>();
+            services.AddScoped<IService<CategoryDto>, CategoryService>();
             return services;
         }
     }

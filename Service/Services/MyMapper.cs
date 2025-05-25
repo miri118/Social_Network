@@ -16,7 +16,7 @@ namespace Service.Services
         {
             CreateMap<User, UserDto>().ForMember("ArrImageProfile", x => x.MapFrom(y => File.ReadAllBytes(path+ y.ImageProfileUrl)));
             CreateMap<UserDto, User>().ForMember("ImageProfileUrl", x => x.MapFrom(y => y.fileImageProfile.FileName));
-
+            CreateMap<Category, CategoryDto>().ReverseMap();
             CreateMap<User, UserDto>().ReverseMap();
         }
     }
