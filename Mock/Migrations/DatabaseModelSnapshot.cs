@@ -47,11 +47,11 @@ namespace Mock.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int?>("MessageId")
+                    b.Property<int>("MessageId")
                         .HasColumnType("int");
 
-                    b.Property<bool>("Type")
-                        .HasColumnType("bit");
+                    b.Property<int>("Type")
+                        .HasColumnType("int");
 
                     b.Property<int>("UserId")
                         .HasColumnType("int");
@@ -80,7 +80,7 @@ namespace Mock.Migrations
                     b.Property<DateTime>("TimeSend")
                         .HasColumnType("datetime2");
 
-                    b.Property<int?>("TopicId")
+                    b.Property<int>("TopicId")
                         .HasColumnType("int");
 
                     b.Property<int>("UserId")
@@ -128,6 +128,10 @@ namespace Mock.Migrations
                     b.Property<int>("CountMessages")
                         .HasColumnType("int");
 
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("ImageProfileUrl")
                         .HasColumnType("nvarchar(max)");
 
@@ -149,30 +153,38 @@ namespace Mock.Migrations
 
             modelBuilder.Entity("Repository.Entities.Feedback", b =>
                 {
-                    b.HasOne("Repository.Entities.Message", null)
+                    b.HasOne("Repository.Entities.Message", "Message")
                         .WithMany("Likes")
-                        .HasForeignKey("MessageId");
+                        .HasForeignKey("MessageId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.HasOne("Repository.Entities.User", "User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Message");
 
                     b.Navigation("User");
                 });
 
             modelBuilder.Entity("Repository.Entities.Message", b =>
                 {
-                    b.HasOne("Repository.Entities.Topic", null)
+                    b.HasOne("Repository.Entities.Topic", "Topic")
                         .WithMany("ListMessages")
-                        .HasForeignKey("TopicId");
+                        .HasForeignKey("TopicId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.HasOne("Repository.Entities.User", "User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Topic");
 
                     b.Navigation("User");
                 });

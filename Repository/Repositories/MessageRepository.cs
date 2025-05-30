@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Repository.Repositories
 {
-    public class MessageRepository:IRepository<Message>
+    public class MessageRepository : IRepository<Message>
     {
         private readonly IContext context;
         public MessageRepository(IContext context)
@@ -45,9 +45,7 @@ namespace Repository.Repositories
             if (existMessage != null)
             {
                 existMessage.Content = item.Content;
-                existMessage.User = item.User;
                 existMessage.Likes = item.Likes;
-                //existMessage.TimeSend = item.TimeSend; // אולי לא נכון לשנות זמן שליחה!?
                 context.Save();
             }
         }

@@ -44,7 +44,6 @@ namespace Repository.Repositories
             var existFeedback = await GetById(id);
             if (existFeedback != null)
             {
-                existFeedback.User = item.User;
                 existFeedback.Type = item.Type;
                 await context.Save();
             }

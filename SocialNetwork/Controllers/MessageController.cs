@@ -39,16 +39,16 @@ namespace SocialNetwork.Controllers
 
         // PUT api/<MessageController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] MessageDto message)
+        public async Task Put(int id, [FromBody] MessageDto message)
         {
-            service.Update(id, message);
+            await service.Update(id, message);
         }
 
         // DELETE api/<MessageController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            service.Delete(id);
+            await service.Delete(id);
         }
     }
 }

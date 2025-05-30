@@ -26,8 +26,8 @@ namespace Repository.Repositories
 
         public async Task Delete(int id)
         {
-             context.Categories.Remove(await GetById(id));
-             await context.Save();
+            context.Categories.Remove(await GetById(id));
+            await context.Save();
         }
 
         public async Task<List<Category>> GetAll()
@@ -42,11 +42,12 @@ namespace Repository.Repositories
 
         public async Task Update(int id, Category item)
         {
-            var existCategory=await GetById(id);
+            var existCategory = await GetById(id);
+
             if (existCategory != null)
             {
-                existCategory.NameCategory=item.NameCategory;
-                existCategory.Topics=item.Topics;
+                existCategory.NameCategory = item.NameCategory;
+                existCategory.Topics = item.Topics;
                 await context.Save();
             }
         }

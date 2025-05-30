@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Common.Dto;
 using Service.Interfaces;
 using Microsoft.Extensions.Configuration;
 using System.IdentityModel.Tokens.Jwt;
 using Microsoft.IdentityModel.Tokens;
 using System.Security.Claims;
-using System.Threading.Tasks; // ?
+using System.Threading.Tasks;
+using Common.Dto;
 // צריך להוריד את הספריות של טוקן ואבטחה
 
 
@@ -18,11 +18,11 @@ namespace SocialNetwork.Controllers
     public class UserController : ControllerBase
     {
         private readonly IService<UserDto> service;
-        private readonly IConfiguration config;
+        //private readonly IConfiguration config;
         public UserController(IService<UserDto> service, IConfiguration config)
         {
             this.service = service;
-            this.config = config;
+            //this.config = config;
         }
         // GET: api/<UserController>
         [HttpGet]
@@ -42,7 +42,10 @@ namespace SocialNetwork.Controllers
         [HttpPost]
         public async Task<UserDto> Post([FromForm] UserDto user)
         {
-            UploadImage(user.fileImageProfile);
+            if (user.fileImageProfile != null)
+            {
+                UploadImage(user.fileImageProfile);
+            }
             return await service.Add(user);
         }
 
@@ -81,17 +84,17 @@ namespace SocialNetwork.Controllers
 
         // PUT api/<UserController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromForm] UserDto user)
+        public async Task Put(int id, [FromForm] UserDto user)
         {
             UploadImage(user.fileImageProfile);
-            service.Update(id, user);
+            await service.Update(id, user);
         }
 
         // DELETE api/<UserController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            service.Delete(id);
+            await service.Delete(id);
         }
 
         private void UploadImage(IFormFile file)

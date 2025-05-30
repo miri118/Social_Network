@@ -12,11 +12,9 @@ namespace Common.Dto
     {
         public int Id { get; set; }
         public int CategoryId { get; set; }
-        [ForeignKey("CategoryId")]
-        public CategoryDto Category { get; set; }
+        //[ForeignKey("CategoryId")]
+        //public CategoryDto Category { get; set; }
         public string Title { get; set; }
-        public List<MessageDto> ListMessages { get; set; }
-        //public Message LastMessage { get; set; }
-        //public int NumResponses { get; set; }
+        //public List<MessageDto>? ListMessages { get; set; }
     }
 }

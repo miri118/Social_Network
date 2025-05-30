@@ -11,6 +11,8 @@ namespace Mock
 {
     public class Database : DbContext, IContext
     {
+        //home = DESKTOP-FKDF8KP\SQLSERVR
+        //seminar = sql
         public DbSet<User> Users { get; set; }
         public DbSet<Topic> Topics { get; set; }
         public DbSet<Category> Categories { get; set; }
@@ -19,12 +21,13 @@ namespace Mock
 
         public async Task Save()
         {
-            await SaveChangesAsync();
+            await Console.Out.WriteLineAsync("save changes.....");
+             await SaveChangesAsync();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=sql;database=SocialNetwork;trusted_connection=true;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("server=DESKTOP-FKDF8KP\\SQLSERVR;database=SocialNetwork;trusted_connection=true;TrustServerCertificate=True");
         }
 
     }

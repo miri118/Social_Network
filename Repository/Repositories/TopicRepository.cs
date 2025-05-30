@@ -44,9 +44,7 @@ namespace Repository.Repositories
             var existTopic = await GetById(id);
             if(existTopic != null)
             {
-                existTopic.Title = item.Title;
                 existTopic.ListMessages = item.ListMessages;
-                existTopic.Category = item.Category;
                 context.Save();
             }
         }

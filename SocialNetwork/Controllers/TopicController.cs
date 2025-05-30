@@ -12,6 +12,10 @@ namespace SocialNetwork.Controllers
     public class TopicController : ControllerBase
     {
         private readonly IService<TopicDto> service;
+        public TopicController(IService<TopicDto> service)
+        {
+            this.service = service;
+        }
         // GET: api/<TopicController>
         [HttpGet]
         public async Task<List<TopicDto>> Get()
@@ -35,16 +39,16 @@ namespace SocialNetwork.Controllers
 
         // PUT api/<TopicController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] TopicDto topic)
+        public async Task Put(int id, [FromBody] TopicDto topic)
         {
-            service.Update(id, topic);
+            await service.Update(id, topic);
         }
 
         // DELETE api/<TopicController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            service.Delete(id);
+            await service.Delete(id);
         }
     }
 }

@@ -32,23 +32,23 @@ namespace SocialNetwork.Controllers
 
         // POST api/<FeedbackController>
         [HttpPost]
-        public async Task<FeedbackDto> Post([FromBody] FeedbackDto feedback)
+        public async Task<FeedbackDto> Post([FromForm] FeedbackDto feedback)
         {
             return await service.Add(feedback);
         }
 
         // PUT api/<FeedbackController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] FeedbackDto feedback)
+        public async Task Put(int id, [FromForm] FeedbackDto feedback)
         {
-            service.Update(id, feedback);
+            await service.Update(id, feedback);
         }
 
         // DELETE api/<FeedbackController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            service.Delete(id);
+            await service.Delete(id);
         }
     }
 }

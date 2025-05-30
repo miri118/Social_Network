@@ -178,3 +178,39 @@ L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Net
 L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\refint\Service.dll
 L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\Service.pdb
 L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Service\obj\Debug\net8.0\ref\Service.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Service.deps.json
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Service.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Service.pdb
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Common.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Repository.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Common.pdb
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Repository.pdb
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.sourcelink.json
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\refint\Service.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.pdb
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\ref\Service.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Service.deps.json
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Service.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Service.pdb
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Common.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Repository.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Common.pdb
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\bin\Debug\net8.0\Repository.pdb
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.sourcelink.json
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\refint\Service.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\Service.pdb
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Service\obj\Debug\net8.0\ref\Service.dll

@@ -128,3 +128,29 @@ L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Net
 L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\obj\Debug\net8.0\refint\Repository.dll
 L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\obj\Debug\net8.0\Repository.pdb
 L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Repository\bin\Debug\net8.0\Repository.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Repository\bin\Debug\net8.0\Repository.pdb
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.pdb
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Repository\bin\Debug\net8.0\Repository.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Repository\bin\Debug\net8.0\Repository.pdb
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\Repository.pdb
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Repository\obj\Debug\net8.0\ref\Repository.dll

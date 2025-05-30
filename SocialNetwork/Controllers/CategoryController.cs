@@ -40,23 +40,23 @@ namespace SocialNetwork.Controllers
 
         // POST api/<CategoryController>
         [HttpPost]
-        public async Task<CategoryDto> Post([FromBody] CategoryDto category)
+        public async Task<CategoryDto> Post([FromForm] CategoryDto category)
         {
             return await service.Add(category);
         }
 
         // PUT api/<CategoryController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] CategoryDto category)
+        public async Task Put(int id, [FromBody] CategoryDto category)
         {
-            service.Update(id, category);
+           await service.Update(id, category);
         }
 
         // DELETE api/<CategoryController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task Delete(int id)
         {
-            service.Delete(id);
+            await service.Delete(id);
         }
     }
 }

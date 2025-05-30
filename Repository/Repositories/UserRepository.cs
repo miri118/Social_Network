@@ -46,8 +46,10 @@ namespace Repository.Repositories
             {
                 existUser.Name = item.Name;
                 existUser.Password = item.Password;
+                existUser.Email = item.Email;
                 existUser.Role = item.Role;
-                //existUser.CountMessages = item.CountMessages; // האם נכון!?
+                existUser.CountMessages = item.CountMessages;
+                existUser.ImageProfileUrl = item.ImageProfileUrl;
                 await context.Save();
             }
         }

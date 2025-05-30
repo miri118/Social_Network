@@ -16,8 +16,6 @@ namespace Repository.Entities
         [ForeignKey("CategoryId")]
         public Category Category { get; set; }
         public string Title { get; set; }
-        public List<Message> ListMessages { get; set; }
-        //public Message LastMessage { get; set; }
-        //public int NumResponses { get; set; }
+        public List<Message>? ListMessages { get; set; }
     }
 }

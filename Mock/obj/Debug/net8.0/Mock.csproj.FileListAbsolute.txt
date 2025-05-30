@@ -178,3 +178,39 @@ L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Net
 L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
 L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
 L:\שנה ב\Full Stack\ברכי איצקוביץ\פרויקט גמר\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\bin\Debug\net8.0\Mock.deps.json
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\bin\Debug\net8.0\Mock.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\bin\Debug\net8.0\Mock.pdb
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\bin\Debug\net8.0\Repository.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\bin\Debug\net8.0\Repository.pdb
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CopyComplete
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\refint\Mock.dll
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+D:\לימודים\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\bin\Debug\net8.0\Mock.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\bin\Debug\net8.0\Mock.pdb
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\bin\Debug\net8.0\Repository.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\bin\Debug\net8.0\Repository.pdb
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.csproj.CopyComplete
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.pdb
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\פרויקט גמר\הכי מעודכן\Social_Network\Mock\obj\Debug\net8.0\ref\Mock.dll

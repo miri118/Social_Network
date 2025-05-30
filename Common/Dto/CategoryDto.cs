@@ -9,8 +9,9 @@ namespace Common.Dto
 {
     public class CategoryDto
     {
-        public int Id { get; set; }
+        public int? Id { get; set; }
         public string NameCategory { get; set; }
-        //public virtual ICollection<TopicDto> Topics { get; set; }//virtual- בגלל שלא חייבים לעשות לכל קטגוריה דיון
+        // ICollection
+        //public virtual List<TopicDto>? Topics { get; set; }//virtual- בגלל שלא חייבים לעשות לכל קטגוריה דיון
     }
 }
